@@ -3,7 +3,7 @@
 🎓 Estudante de **Engenharia de Software**
 💻 Apaixonado por tecnologia, programação e dados
 🚀 Em busca de oportunidades como **Estagiário / Júnior em TI**
-📚 Atualmente aprendendo **Java, SQL, Git/GitHub e Power BI**
+📚 Atualmente aprendendo **Java, SQL e Git/GitHub**
 
 ---
 
