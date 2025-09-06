@@ -11,7 +11,6 @@
 - ☕ **Java** – minha linguagem de estudo principal
 - 🐙 **Git & GitHub** – versionamento e colaboração
 - 🗄️ **Banco de Dados (SQL)** – consultas e modelagem
-- 📊 **Power BI** – análise de dados e dashboards
 -  Sempre explorando novas tecnologias para crescer na área
 
 ---
